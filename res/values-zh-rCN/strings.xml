@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">行车记录仪</string>
+    <string name="usb_camera">Usb摄像头</string>
+    <string name="back_camera">后置摄像头</string>
+    <string name="return_text">返回</string>
+    <!-- daiqingchen modified for bug 138654 20170302 start-->
+    <string name="usb_camera_success">打开USB摄像头成功！</string>
+    <string name="usb_camera_failed">打开USB摄像头失败！</string>
+    <!-- daiqingchen modified for bug 138654 20170302 end-->
+</resources>

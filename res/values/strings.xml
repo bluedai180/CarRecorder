@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarRecorder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="usb_camera">Usb Camera</string>
+    <string name="back_camera">Back Camera</string>
+    <string name="return_text">Return</string>
+    <string name="format">%s</string>
+    <!-- daiqingchen modified for bug 138654 20170302 start-->
+    <string name="usb_camera_success">Open Usb Camera successful!</string>
+    <string name="usb_camera_failed">Open Usb Camera failed!</string>
+    <!-- daiqingchen modified for bug 138654 20170302 end-->
+    
+</resources>
